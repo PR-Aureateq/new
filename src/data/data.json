@@ -1,0 +1,132 @@
+{
+  "Header": {
+    "title": "Solutions Gilded in excellence",
+    "paragraph": "“Unleashing Tomorrow, Together Today: Innovate, Integrate, Elevate with Next-Gen Collaboration Tech.”"
+  },
+  "About": {
+    "paragraph": "Aureateq is a newly established IT consulting firm that specializes in innovative digital transformations and cutting-edge technology solutions. With a team of seasoned experts, we offer personalized consulting services designed to propel businesses into the future. Our approach combines deep industry knowledge with the latest technological advancements to optimize operations, enhance efficiency, and drive growth. Aureateq is actively seeking to partner with companies that aim to navigate the intricacies of the digital era with assurance and adeptness.",
+    "Why": [
+      "Rich Industry Experience",
+      "Cost-Effective Solutions",
+      "Quality Work Assurance",
+      "Flexible Scalability Options",
+      "Diverse Skilled Team"
+    ],
+    "Why2": [
+      "Proven Project Success",
+      "Always Available Support",
+      "Continuous Innovative Solutions",
+      "Tailored Client Approaches",
+      "Security and Compliance Focus"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-mobile",
+      "name": "Mobile App Development Services",
+      "text": "Transform your business with Aureateq's expert mobile app development. We deliver secure, scalable apps tailored to your needs. Let’s bring your vision to life and drive growth together."
+    },
+    {
+      "icon": "fa  fa-check-circle",
+      "name": "Quality Assurance Testing",
+      "text": "Guarantee your app’s excellence with our Quality Assurance Testing. We ensure flawless performance and security for a seamless user experience. Trust us to deliver top-quality results."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Managed IT Services",
+      "text": "Streamline your IT with our Managed IT Services. We provide proactive support and security, letting you focus on what matters most—growing your business."
+    },
+    {
+      "icon": "fa fa-laptop",
+      "name": "Software Development",
+      "text": "Transform your ideas into powerful solutions through custom, scalable software development. We tailor our services to your needs, driving innovation and efficiency. Let’s build your future together."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "name": "Business Analyst Advisory",
+      "text": "Unlock new growth opportunities with our Business Analyst Advisory. We provide insights and strategies to optimize your operations, enhance decision-making, and drive success. Let’s turn data into actionable results."
+    },
+    {
+      "icon": "fa fa-phone",
+      "name": "24/7 Technical Support",
+      "text": "Experience peace of mind with our 24/7 Technical Support. We’re here to resolve issues promptly and ensure your systems run smoothly, anytime, anywhere. Your tech challenges are our top priority."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01a.jpg",
+      "name": "",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/02b.jpg",
+      "name": "",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/03c.jpg",
+      "name": "",
+      "job": "Founder"
+    }
+  ],
+  "Contact": {
+    "email": "info@aureateq.com support@aureateq.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
